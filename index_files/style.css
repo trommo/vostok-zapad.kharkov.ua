@@ -71,7 +71,7 @@ div#chinese {
     margin: 0 auto;
     float: left;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/chinese-small.png) center bottom no-repeat;
+    background: url(chinese-small.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -81,7 +81,7 @@ div#chinese1 {
     margin: 0 auto;
     float: left;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/chinese-middle.png) center bottom no-repeat;
+    background: url(chinese-middle.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -91,7 +91,7 @@ div#chinese:hover {
     margin: 0 auto;
     float: left;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/chinese-middle.png) center bottom no-repeat;
+    background: url(chinese-middle.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -101,7 +101,7 @@ div#english {
     margin: 0 auto;
     float: left;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/english-small.png) center bottom no-repeat;
+    background: url(english-small.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -111,7 +111,7 @@ div#english1 {
     margin: 0 auto;
     float: left;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/english-middle.png) center bottom no-repeat;
+    background: url(english-middle.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -121,7 +121,7 @@ div#english:hover {
     margin: 0 auto;
     float: left;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/english-middle.png) center bottom no-repeat;
+    background: url(english-middle.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -131,7 +131,7 @@ div#deutsch {
     float: left;
     margin: 0 auto;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/deutsch-small.png) center bottom no-repeat;
+    background: url(deutsch-small.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -141,7 +141,7 @@ div#deutsch1 {
     float: left;
     margin: 0 auto;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/deutsch-middle.png) center bottom no-repeat;
+    background: url(deutsch-middle.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
 
@@ -151,6 +151,6 @@ div#deutsch:hover {
     float: left;
     margin: 0 auto;
     font-size: 11px;  /* çàäàåì ðàçìåð øðèôòà */
-    background: url(index_files/deutsch-middle.png) center bottom no-repeat;
+    background: url(deutsch-middle.png) center bottom no-repeat;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
 }
