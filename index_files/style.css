@@ -1,27 +1,27 @@
 div#menunav {
-    width: 900px; /* задаем ширину для div */
+    width: 900px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     margin: 0 auto;
-    border-top: 3px  solid  #660000;   /* рисуем линию поверх div */
-    border-bottom: 3px solid #660000;  /* рисуем линию снизу div */
+    border-top: 3px  solid  #660000;   /* Г°ГЁГ±ГіГҐГ¬ Г«ГЁГ­ГЁГѕ ГЇГ®ГўГҐГ°Гµ div */
+    border-bottom: 3px solid #660000;  /* Г°ГЁГ±ГіГҐГ¬ Г«ГЁГ­ГЁГѕ Г±Г­ГЁГ§Гі div */
     border-left: 3px solid #660000;
     border-right: 3px solid #660000;
-    font-size: 11px;  /* задаем размер шрифта */
-    background-color: #ffffff;  /* фоновый цвет div */
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background-color: #ffffff;  /* ГґГ®Г­Г®ГўГ»Г© Г¶ГўГҐГІ div */
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#nazva {
-    width: 900px; /* задаем ширину для div */
+    width: 900px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 149px;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
     background: url(https://vostok-zapad.kharkov.ua/index_files/vostok-zapad.png) center top no-repeat;
 	  position: relative;
-	  background-color: #CC3300;  /* фоновый цвет div */
+	  background-color: #CC3300;  /* ГґГ®Г­Г®ГўГ»Г© Г¶ГўГҐГІ div */
 }
 
 div#kursy {
-    font-size: 26px;  /* задаем размер шрифта */
-    padding: 0 0 0 80px; /* отступ ul от края контейнера */
+    font-size: 26px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    padding: 0 0 0 80px; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
     height: 33px;
 }
 
@@ -48,109 +48,109 @@ div#morda_text1 {
 }
 
 div#footer {
-    width: 900px; /* задаем ширину для div */
+    width: 900px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 351px;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
     background: url(https://vostok-zapad.kharkov.ua/index_files/adres.png) center top no-repeat;
- 	  background-color: #CC3300;  /* фоновый цвет div */
+ 	  background-color: #CC3300;  /* ГґГ®Г­Г®ГўГ»Г© Г¶ГўГҐГІ div */
 	  position: relative;
 }
 
 div#menu {
-    width: 894px; /* задаем ширину для div */
+    width: 894px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 365px;
     margin: 0 auto;
 
-    font-size: 11px;  /* задаем размер шрифта */
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#chinese {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     margin: 0 auto;
     float: left;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/chinese-small.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/chinese-small.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#chinese1 {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     margin: 0 auto;
     float: left;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/chinese-middle.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/chinese-middle.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#chinese:hover {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     margin: 0 auto;
     float: left;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/chinese-middle.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/chinese-middle.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#english {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     margin: 0 auto;
     float: left;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/english-small.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/english-small.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#english1 {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     margin: 0 auto;
     float: left;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/english-middle.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/english-middle.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#english:hover {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     margin: 0 auto;
     float: left;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/english-middle.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/english-middle.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#deutsch {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     float: left;
     margin: 0 auto;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/deutsch-small.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/deutsch-small.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#deutsch1 {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     float: left;
     margin: 0 auto;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/deutsch-middle.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/deutsch-middle.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
 
 div#deutsch:hover {
-    width: 298px; /* задаем ширину для div */
+    width: 298px; /* Г§Г Г¤Г ГҐГ¬ ГёГЁГ°ГЁГ­Гі Г¤Г«Гї div */
     height: 349px;
     float: left;
     margin: 0 auto;
-    font-size: 11px;  /* задаем размер шрифта */
-    background: url(https://vostok-zapad.kharkov.ua/index_files/deutsch-middle.png) center bottom no-repeat;
-    padding: 0 0 0 0; /* отступ ul от края контейнера */
+    font-size: 11px;  /* Г§Г Г¤Г ГҐГ¬ Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    background: url(/index_files/deutsch-middle.png) center bottom no-repeat;
+    padding: 0 0 0 0; /* Г®ГІГ±ГІГіГЇ ul Г®ГІ ГЄГ°Г Гї ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
 }
