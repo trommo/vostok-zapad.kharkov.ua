@@ -14,7 +14,7 @@ div#nazva {
     width: 900px; /* çàäàåì øèðèíó äëÿ div */
     height: 149px;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
-    background: url(index_files/vostok-zapad.png) center top no-repeat;
+    background: url(vostok-zapad.png) center top no-repeat;
 	  position: relative;
 	  background-color: #CC3300;  /* ôîíîâûé öâåò div */
 }
@@ -51,7 +51,7 @@ div#footer {
     width: 900px; /* çàäàåì øèðèíó äëÿ div */
     height: 351px;
     padding: 0 0 0 0; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
-    background: url(index_files/adres.png) center top no-repeat;
+    background: url(adres.png) center top no-repeat;
  	  background-color: #CC3300;  /* ôîíîâûé öâåò div */
 	  position: relative;
 }
