@@ -19,6 +19,27 @@ div#nazva {
 	  background-color: #CC3300;  /* ôîíîâûé öâåò div */
 }
 
+div#phones {
+    width: 77%;
+    font-size: 26px;
+    padding: 0 0 0 80px;
+    text-align: center; 
+    height: 33px;
+}
+
+div#left-phone {
+    float: left;
+}
+
+div#center-phone {
+    display: inline-block;
+    margin:0 auto;
+}
+
+div#right-phone {
+    float: right;
+}
+
 div#kursy {
     font-size: 26px;  /* çàäàåì ðàçìåð øðèôòà */
     padding: 0 0 0 80px; /* îòñòóï ul îò êðàÿ êîíòåéíåðà */
